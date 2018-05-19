@@ -21,15 +21,15 @@
 
 Daemon's father, [Ander](#ander), was a traveling merchant. His route brought him up and down the [Sword Coast](http://forgottenrealms.wikia.com/wiki/Sword_Coast) and occasionally through less traveled lands. Ander traveled with his son Daemon, daughter [Elaine](#elaine), and a vardo pulled by a mule named Mearl. The children were acclimated to life on the road and had seen more of the world before age six than most Faerûnians do their entire lives. 
 
-Daemon's younger sister, Elaine, showed signs of being unsual at an early age. She rarely spoke, and yet seemed uncannily aware of the wolrd around her. On one occasion in Kathatla, for example, Elaine stopped in the middle of a game of Tressym Hunters to stare into a nearby window. Nothing noteable appeared in the window at first, but after a few moments two cloaked figures appeared and huddled together to exchanged what appeared to be a small a glowing sphere. After the figures disappeared Elaine went back to the game as though nothing happened, offering Daemon no explaination. 
+Daemon's younger sister, Elaine, showed signs of being unual at an early age. She rarely spoke, and yet seemed uncannily aware of the world around her. On one occasion in Kathatla, for example, Elaine stopped in the middle of a game of Tressym Hunters to stare into a nearby window. Nothing notable appeared in the window at first, but after a few moments two cloaked figures appeared and huddled together to exchanged what appeared to be a small a glowing sphere. After the figures disappeared Elaine went back to the game as though nothing happened, offering Daemon no explanation. 
 
-On another occassion, as Daemon and Elaine were grooming Mearle as their father set up camp, Elaine gently glaced towared the woods and whispered, "Poor little rabbit". Daemon followed her gaze to see an Almiraj sitting at the edge of the wood and eating the low grass. A moment later a large bird of prey swept in an snatched the horned rabbit. Daemon watched as the winged preditor flew away with its meal, his jaw agape, then turned to Elaine who again seemed utterly unperturbed.
+On another occasion, as Daemon and Elaine were grooming Mearle as their father set up camp, Elaine gently glanced toward the woods and whispered, "Poor little rabbit". Daemon followed her gaze to see an Almiraj sitting at the edge of the wood and eating the low grass. A moment later a large bird of prey swept in an snatched the horned rabbit. Daemon watched as the winged predator flew away with its meal, his jaw agape, then turned to Elaine who again seemed utterly unperturbed.
 
-Elaine also had an apatitude for the arcane; at least according to a seer of mystra, Lady Ohgmoth, who Ander frequented for counsel. Daemon had to admit, that unnusual things tended to happen in Elaine's company, though nothing like the spectacle of fire jugglers and magicians he'd seen at festivals. Lady Ohgmoth urged Ander to seek out an arcane mentor for Elaine who could ensure her abilities were safely nurtured. Ander appeared to take Ohgmoth's advice seriously, though seeemed reluctant to act.
+Elaine also had an aptitude for the arcane; at least according to a seer of Mystra, Lady Ohgmoth, who Ander frequented for counsel. Daemon had to admit, that unusual things tended to happen in Elaine's company, though nothing like the spectacle of fire jugglers and magicians he'd seen at festivals. Lady Ohgmoth urged Ander to seek out an arcane mentor for Elaine who could ensure her abilities were safely nurtured. Ander appeared to take Ohgmoth's advice seriously, though seemed reluctant to act.
 
 When Daemon was six, [Ander's](#ander) work brought he and his family to the [The Cloakwood](http://forgottenrealms.wikia.com/wiki/Cloak_Wood). [Ander](#ander) was notably quiet on the journey there and grew tenser on each day of their approach. Deep in the [The Cloakwood](http://forgottenrealms.wikia.com/wiki/Cloak_Wood), their destination was a medium sized camp occupied by an exotic group of travelers of an ethnicity, fashion, and tongue Daemon and Elaine had never met prior. Daemon felt uneasy around the bejeweled foreigners. Elaine, however, seemed more at ease with these strangers than their normal Faerûnian patronage. 
 
-As the evening drew in they shared food, drink, and stories. [Ander](#ander) talked business with a scarred and weathered man. [Elaine](#elaine) delighted in the trinkets and jewels adorning the matrons of the encampment. Daemon sat quietly by the fire, taking it all in with wide eyes. 
+As the evening drew in they shared food, drink, and stories. [Ander](#ander) talked solemnly with with a scarred and weathered man, about business Daemon assumed. [Elaine](#elaine) delighted in the trinkets and jewels adorning the matrons of the encampment. Daemon sat quietly by the fire, taking it all in with wide eyes. 
 
 In the middle of the night , Daemon awoke, stirred by a primal sense of dread. Outside the vardo he heard the deep bellowing of an unearthly horn. Soon after were the cries of men and whining of horses. Daemon emerged from the wagon to smoke and fire. His father was suddenly beside him, pulling him away with urgency. 
 
@@ -57,7 +57,7 @@ But eight mortal men --- even heavily armed and combat-readied --- are barely mo
 
 ### **Isolation**
 
-Daemon's forged documents were soon discovered by the Flamming Fist. Daemon had anticipated this, but expected to come back victorious, thereby justifying his deceit. However, Daemon learned from a friend in Triel that the Fist had stripped Daemon of his position and placed a bounty on his head. Having made enemies with both the law and underground of Baldur's gate, there was no going back. 
+Daemon's forged documents were soon discovered by the Flaming Fist. Daemon had anticipated this, but expected to come back victorious, thereby justifying his deceit. However, Daemon learned from a friend in Triel that the Fist had stripped Daemon of his position and placed a bounty on his head. Having made enemies with both the law and underground of Baldur's gate, there was no going back. 
 
 Daemon wandered aimlessly for a time, reflecting on his situation. The aim of his entire adult life, the only thing he had lived for, now seemed unobtainable. An ordinary mortal could not take on the [Wild Hunt](#wild-hunt). For a time Daemon felt hollow, wandering from place to place like the walking dead. 
 
@@ -81,7 +81,7 @@ Daemon's younger sister Elaine was two years younger than Daemon and was four wh
 
 Daemon remembers Elaine as strong willed, independent, and capable beyond her years. 
 
-**Apearance:** Elaine had jet black hair and porcelain skin. She had large green eyes that felt as though they could pierce through any pretension or deception.
+**Appearance:** Elaine had jet black hair and porcelain skin. She had large green eyes that felt as though they could pierce through any pretension or deception.
 
 ### **Daemon's Mother**
 
