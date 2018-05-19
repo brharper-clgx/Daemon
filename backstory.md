@@ -1,21 +1,20 @@
 # Daemon Retch
 
-## Table of Contents
-
-1.  [Backstory](#backstory)
-    1.  [Before the Hunt](#before-hunt)
-    2.  [Baldur's Gate](#baldur)
-    3.  [Isolation](#isolation)
-2.  [Additional Info](#additional)
-    1.  [Ander : Daemon's Father](#ander)
-    2.  [Elaine : Daemon's Sister]($elaine)
-    3.  [Daemon's Mother](#mother)
-    4.  [Daemon's Surname](#surname)
-    5.  [The Wild Hunt](#wild-hunt)
-    6.  [Daemon's Platoon](#platoon)
-3.  [Meta](#meta)
-    1.  [Daemon's Name](#name)
-    2.  [Influence](#influence)
+- [Daemon Retch](#daemon-retch)
+    - [Backstory](#backstory)
+        - [Before the Hunt](#before-the-hunt)
+        - [The Streets of Baldur's Gate<a name="baldur"></a>](#the-streets-of-baldurs-gatea-namebaldur-a)
+        - [Isolation<a name="isolation"></a>](#isolationa-nameisolation-a)
+    - [Additional Info](#additional-info)
+        - [Ander : Daemon's Father](#ander---daemons-father)
+        - [Elaine : Daemon's Sister](#elaine---daemons-sister)
+        - [Daemon's Mother](#daemons-mother)
+        - [Daemon's Surname](#daemons-surname)
+        - [The Wild Hunt](#the-wild-hunt)
+            - [Daemon's Platoon](#daemons-platoon)
+    - [Meta](#meta)
+        - [Daemon's Name](#daemons-name)
+        - [Influence](#influence)
 
 ## Backstory
 
