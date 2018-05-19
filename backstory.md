@@ -1,8 +1,8 @@
 # **Daemon Retch**
 
 - [Daemon Retch](#daemon-retch)
-    - [**Backstory**](#backstory)
-        - [**Before the Hunt**](#before-the-hunt)
+    - [Backstory](#backstory)
+        - [Before the Hunt](#before-the-hunt)
         - [The Streets of Baldur's Gate](#the-streets-of-baldurs-gate)
         - [Isolation](#isolation)
     - [Additional Info](#additional-info)
