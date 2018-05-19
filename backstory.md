@@ -57,7 +57,7 @@ A few years after Daemon learned the name of the Wild Hunt, he heard rumors of a
 
 For months they tracked what his men believed was a group of ordinary bandits. The going was rough; resources were scarce and the mountains were perilous and bitterly cold. But Daemon’s leadership kept his men from losing heart. Eventually, they sensed that they were closing in on their target. 
 
-But eight mortal men --- even heavily armed and combat-readied --- are barely more than an inconvenience to the dark powers of the [Wild Hunt](#wild-hunt). Perceiving that they were being followed, the [Wild Hunt](#wild-hunt) paused to let their pursuers catch them. And like a cat toying with a mouse, the Hunt killed each of Daemon's men, and left Daemon himself only a breath away from death. The Hunt now knew his face, and he theirs.
+But eight mortal men --- even heavily armed and combat-readied --- are barely more than an inconvenience to the dark powers of the [Wild Hunt](#wild-hunt). Perceiving that they were being followed, the [Wild Hunt](#wild-hunt) paused to let their pursuers catch them. And like a cat toying with a mouse, the Hunt killed each of Daemon's men. Yet they left Daemon himself only a breath away from death. Inexplicably, the Hunt had now spared Daemon from death twice.
 
 ### **Isolation**
 
