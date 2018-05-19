@@ -15,7 +15,6 @@
     - [Meta](#meta)
         - [Daemon's Name](#daemons-name)
         - [Influence](#influence)
-
 ## Backstory
 
 ### Before the Hunt
