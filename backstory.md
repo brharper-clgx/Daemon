@@ -75,7 +75,7 @@ Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on hi
 
 Ander was a wandering merchant who specialized in rare and magical items. He would bring his family up and down [Trader's Way](http://forgottenrealms.wikia.com/wiki/Trader%27s_Way) exchanging goods and news with towns and cities along the road. 
 
-aemon remembers his father as kind, gentle, reflective, and burdened with a deep sadness of an origin Daemon never knew.
+Daemon remembers his father as kind, gentle, reflective, and burdened with a deep sadness of an origin Daemon never knew.
 
 **Appearance:** Ander was slender, as though he were frequently underfed, though he was not frail. His clothes were shabby. His hair was a messy brown that had begun to grey around the edges. His eyes were a pale blue.
 
