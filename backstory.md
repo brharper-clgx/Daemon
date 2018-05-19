@@ -65,7 +65,7 @@ Daemon's forged documents were soon discovered by the Flaming Fist. Daemon had a
 
 Daemon wandered aimlessly for a time, reflecting on his situation. The aim of his entire adult life, the only thing he had lived for, now seemed unobtainable. An ordinary mortal could not take on the [Wild Hunt](#wild-hunt). For a time Daemon felt hollow, wandering from place to place like the walking dead. 
 
-Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on his bedroll by a waning fire, with absolute clarity about what he needed to do. He had read about cursed items that gave their owners supernatural abilities. The price paid was great --- servitude to an evil being --- but Daemon had nothing to hold on to. No mortal could take the [Wild Hunt](#wild-hunt), true, but Daemon could become more than mortal. 
+Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on his bedroll by a waning fire, with absolute clarity about what he needed to do. He had read about cursed items that gave their owners supernatural abilities. The price paid was great --- servitude to an another being --- but Daemon had nothing left to hold on to. No mortal could take the [Wild Hunt](#wild-hunt), true, but Daemon could become more than mortal. 
 
 ...
 
