@@ -4,7 +4,7 @@ Compendium: https://roll20.net/compendium/dnd5e/BookIndex
 
 | Platinum | Gold  | Silver | Copper |
 | :------: | :---: | :----: | :----: |
-| 0        | 26    | 35     | 34     |
+| 0        | 26    | 21     | 34     |
 
 
 # Worn / Wielded
@@ -24,13 +24,15 @@ Compendium: https://roll20.net/compendium/dnd5e/BookIndex
 # [Backpack](https://goo.gl/zAiy64)
 
 ## Adventure Gear:
-| Name                               | Quantity | Weight | Value | Properties                         |
-| :--------------------------------- | :------: | :----: | :---: | :--------------------------------- |
-| Chalk                              | 1        |        | 1 cp  |                                    |
-| [Rope](https://goo.gl/MSX63h)      | 1        | 10 lbs | 1 gp  | hemp. 50 ft. **AC**: 17: **HP**: 2 |
-| Signal Whistle                     | 2        |        | 5 cp  |                                    |
-| [Tinderbox](https://goo.gl/VnN8k1) | 1        | 1 lbs  | 5 sp  |                                    |
-| [Torch](https://goo.gl/sUHrvC)     | 5        | 5 lbs  | 1 cp  | 1 hr. **Range**: 20/40 ft.         |
+| Name                                | Quantity | Weight | Value | Properties                         |
+| :---------------------------------- | :------: | :----: | :---: | :--------------------------------- |
+| Chalk                               | 1        |        | 1 cp  |                                    |
+| [Rations](https://goo.gl/MgSqwV)    | 2        | 4 lbs  | 5 sp  | 1 Day                              |
+| [Rope](https://goo.gl/MSX63h)       | 1        | 10 lbs | 1 gp  | hemp. 50 ft. **AC**: 17: **HP**: 2 |
+| Signal Whistle                      | 2        |        | 5 cp  |                                    |
+| [Tinderbox](https://goo.gl/VnN8k1)  | 1        | 1 lbs  | 5 sp  |                                    |
+| [Torch](https://goo.gl/sUHrvC)      | 5        | 5 lbs  | 1 cp  | 1 hr. **Range**: 20/40 ft.         |
+| [Waterskin](https://goo.gl/M3mBceF) | 2        | 10 lbs | 2 sp  | 4 pints                            |
 
 ## Potions / Alchemical:
 | Name                                       | Quantity | Weight | Value | Properties |
