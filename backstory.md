@@ -43,7 +43,7 @@ When rounding the backside of the vardo they were cut off by a terrifying figure
 
 He awoke to an eerie silence, the sun on his face through the trees. When he sat up, he was overcome with nausea. His head spun and ached. He waited for the sickness to subside, then, slowly, he pulled himself up. Somehow the foul rider had not taken Daemon's life. Confused, Daemon made his way toward their camp. 
 
-No one was left alive. There was only ash, ruin, and bloodshed. Mearle had run off, been taken or killed. Ander's body still lay where Daemon had last seen him. Daemon couldn't muster the strength to approach Ander's body. After wandering the camp, looking for something, *anything* that could salvage the nights horrors in even the smallest way, Daemon collapsed defeated. A surge of emotion washed through him; loss, fear, fury, then numbness. 
+No one was left alive. There was only ash, ruin, and bloodshed. Mearle had run off, been taken or killed. Ander's body still lay where Daemon had last seen him. Daemon couldn't muster the strength to approach his slain father. After wandering the camp, looking for something, *anything* that could salvage the nights horrors in even the smallest way, Daemon collapsed defeated. A surge of emotion washed through him; loss, fear, fury, then numbness. 
 
 Daemon wandered through the [The Cloakwood](http://forgottenrealms.wikia.com/wiki/Cloak_Wood) for weeks that he couldn’t keep track of. He lived as an animal would, surviving on the barest of means. By luck, his path eventually intersected with a road (a tributary of [Trader's Way](http://forgottenrealms.wikia.com/wiki/Trader%27s_Way)) where he was picked up by a family traveling by horse and cart. The family was of meager standing, but kind. They fed and nursed Daemon as best they could on the road North and never asked questions he did not want to answer. However, the numbness in Daemon could not accommodate any developing feelings of fondness, and so when they camped on the Southern side of [Wyrm's Crossing](http://1.bp.blogspot.com/-xxM0-3W2VBE/UiJszlAg5SI/AAAAAAAAA5A/6hxXEptdUHw/s1600/Baldur's-Map-from-afar2.jpg), Daemon slipped away in the night.
 
@@ -51,7 +51,7 @@ Daemon wandered through the [The Cloakwood](http://forgottenrealms.wikia.com/wik
 
 Daemon was approaching age seven when he arrived in the outer city of [Baldur's Gate](http://forgottenrealms.wikia.com/wiki/Baldur%27s_Gate). It was here that he would spend the most formative years of his life, first as an urchin, then a beggar, and finally a pickpocket of the Guild. The numbness and anger he’d felt for so long slowly formed into motivation, a will to live, and a strong desire for retribution. 
 
-When Daemon was close to fifteen, [the Flaming Fist mercenary company](http://forgottenrealms.wikia.com/wiki/Flaming_Fist) started a clever campaign to recruit from the streets of the Outer City in a preemptive strike against crime. Daemon joined their ranks and began to fight the crime in which he once partook. Unsurprisingly, this made Daemon many enemies in the Underground. But it also gave him insight into the strategies employed by the criminal underground. 
+When Daemon was close to fifteen, [the Flaming Fist mercenary company](http://forgottenrealms.wikia.com/wiki/Flaming_Fist) started a clever campaign to recruit from the streets of the Outer City in a preemptive strike against crime. Daemon joined their ranks and began to fight the crime in which he once partook. Daemon's insight into the operations of the criminal Underground gave him a leg up in The Fist. However, it made him many enemies in the Underground.
 
 Daemon’s time in the streets proved valuable to the Flaming Fist. By the time he was 19 he had been raised to the rank of captain and had even been acknowledged as 'a promising young officer' by the Fist’s highest in command, the Grand Duke Ulder Ravengard. Daemon now commanded a small platoon of seven mercenaries, and for the first time in several years felt he had something akin to a family. 
 
@@ -71,9 +71,8 @@ Daemon's forged documents were soon discovered by the Flaming Fist. Daemon had a
 
 Daemon wandered aimlessly for a time, reflecting on his situation. The aim of his entire adult life, the only thing he had lived for, now seemed unobtainable. An ordinary mortal could not take on the [Wild Hunt](#wild-hunt). For a time Daemon felt hollow, wandering from place to place like the walking dead. 
 
-Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on his bedroll by a waning fire, with absolute clarity about what he needed to do. He had read about cursed items that gave their owners supernatural abilities. The price paid was great --- servitude to an another being --- but Daemon had nothing **left** to hold on to. No mortal could take the [Wild Hunt](#wild-hunt), true, but Daemon could become more than mortal. 
+Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on his bedroll by a waning fire, with absolute clarity about what he needed to do. He had read about powerful magical items that gave their owners supernatural abilities. No mortal could take the [Wild Hunt](#wild-hunt), true, but Daemon could become more than mortal....
 
-...
 
 ## **Additional Info**
 
