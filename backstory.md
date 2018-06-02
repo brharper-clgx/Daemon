@@ -74,9 +74,7 @@ Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on hi
 
 
 ## **Additional Info**
-
 ### **Ander : Daemon's Father**
-
 Ander was a wandering merchant who specialized in rare and magical items. He would bring his family up and down [Trader's Way](http://forgottenrealms.wikia.com/wiki/Trader%27s_Way) exchanging goods and news with towns and cities along the road. 
 
 Daemon remembers his father as kind, gentle, reflective, and burdened with a deep sadness of an origin Daemon never knew.
