@@ -32,6 +32,10 @@ If ($task -eq "push") {
 	Test-Error
 	mdpdf backstory.md
 	Test-Error
+	git add -A
+	Test-Error
+	git commit --amend --no-edit
+	Test-Error
 	git push
 	exit
 }
