@@ -19,7 +19,7 @@
 
 ### **Before the Hunt**
 
-Daemon's father, [Ander](#ander), was a traveling merchant. His route brought him up and down the [Sword Coast](http://forgottenrealms.wikia.com/wiki/Sword_Coast) and occasionally through less traveled lands. Ander traveled with his son Daemon, daughter [Elaine](#elaine), and a vardo pulled by a mule named Mearl. The children were acclimated to life on the road and had seen more of the world before age six than most Faerûnians do their entire lives. 
+Daemon's father, [Ander](#ander), was a traveling merchant. His route brought him up and down the [Sword Coast](http://forgottenrealms.wikia.com/wiki/Sword_Coast) and occasionally through less traveled lands. Ander traveled with his son Daemon, daughter [Elaine](#elaine), and a vardo pulled by a mule named Mearl. The children were acclimated to life on the road and had seen more of the world before age six than most Faerûnians do their entire lives.
 
 Daemon's younger sister, Elaine, showed signs of being unusual at an early age. She rarely spoke, and yet seemed uncannily aware of the world around her. On one occasion in Kathatla, for example, as Daemon and Elaine were grooming Mearle as their father set up camp, Elaine gently glanced toward the woods and whispered, "Poor little rabbit". Daemon followed her gaze to see an Almiraj sitting at the edge of the wood and eating the low grass. A moment later a large bird of prey swept in an snatched the horned rabbit. Daemon watched as the winged predator flew away with its meal, his jaw agape. Elaine, however, went back to brushing Mearle as though nothing were out of the ordinary. 
 
@@ -66,12 +66,11 @@ For months they tracked what his men believed was a group of ordinary bandits. T
 But eight mortal men --- even heavily armed and combat-readied --- are barely more than an inconvenience to the dark powers of the [Wild Hunt](#wild-hunt). Perceiving that they were being followed, the [Wild Hunt](#wild-hunt) paused to let their pursuers catch them. And like a cat toying with a mouse, the Hunt killed each of Daemon's men. Yet they left Daemon himself only a breath away from death. Inexplicably, the Hunt had now spared Daemon from death twice.
 
 ### **Isolation**
-
 Daemon's forged documents were soon discovered by the Flaming Fist. Daemon had anticipated this, but expected to come back victorious, thereby justifying his deceit. However, Daemon learned from a friend in Triel that the Fist had stripped Daemon of his position and placed a bounty on his head. Having made enemies with both the law and underground of Baldur's gate, there was no going back. 
 
 Daemon wandered aimlessly for a time, reflecting on his situation. The aim of his entire adult life, the only thing he had lived for, now seemed unobtainable. An ordinary mortal could not take on the [Wild Hunt](#wild-hunt). For a time Daemon felt hollow, wandering from place to place like the walking dead. 
 
-Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on his bedroll by a waning fire, with absolute clarity about what he needed to do. He had read about powerful magical items that gave their owners supernatural abilities. No mortal could take the [Wild Hunt](#wild-hunt), true, but Daemon could become more than mortal....
+Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on his bedroll by a waning fire, with absolute clarity about what he needed to do. Daemon's father traded in rare and magical items. Daemon had read that many such items could their owner extraordinary abilities. No mortal could take the [Wild Hunt](#wild-hunt), true, but Daemon could become more than mortal....
 
 
 ## **Additional Info**
