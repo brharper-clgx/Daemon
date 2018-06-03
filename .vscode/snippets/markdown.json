@@ -1,0 +1,73 @@
+{
+	"Locale Icon": {
+		"prefix": "loc",
+		"body": [
+			"# ![locale](../icons/locale.png) ${1:name}",
+			"- **Description**: $3",
+			"- ${2:notes}",
+			"$4"
+		],
+		"description": "Display location icon"
+	},
+	"NPC Icon": {
+		"prefix": "npc",
+		"body": [
+			"# ![locale](../icons/npc.png) ${1:name}",
+			"- **Location**: $3",
+			"- **Description**: $4",
+			"- ${2:notes}",
+			"$5"
+		],
+		"description": "Display npc icon"
+	},
+	"Item Icon": {
+		"prefix": "itm",
+		"body": [
+			"# ![locale](../icons/item.png) ${1:name}",
+			"- **Location**: $3",
+			"- ${2:notes}",
+			"$4"
+		],
+		"description": "Display item icon"
+	},
+	"Treasure Icon": {
+		"prefix": "tre",
+		"body": [
+			"# ![locale](../icons/treasure.png) ${1:name}",
+			"- **Location**: $3",
+			"- ${2:notes}",
+			"$4"
+		],
+		"description": "Display treasure icon"
+	},
+	"Quest Icon": {
+		"prefix": "que",
+		"body": [
+			"# ![locale](../icons/quest.png) Potential Quest",
+			"- **Location**: $2",
+			"- **Who**: $3",
+			"- ${1:notes}",
+			"$4"
+		],
+		"description": "Display quest icon"
+	},
+	"Misc Icon": {
+		"prefix": "mis",
+		"body": [
+			"# ![locale](../icons/misc.png)",
+			"- $1",
+			"$2"
+		],
+		"description": "Display misc icon"
+	},
+	"Monster Icon": {
+		"prefix": "mon",
+		"body": [
+			"# ![locale](../icons/monster.png) ${1:name}",
+			"- **Lair**: $3",
+			"- ${2:notes}",
+			"$4"
+		],
+		"description": "Display monster icon"
+	}
+}
