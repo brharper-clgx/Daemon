@@ -15,9 +15,10 @@ Compendium: https://roll20.net/compendium/dnd5e/BookIndex
 | [Traveler's Clothes ](https://goo.gl/Wdfzn3) | 1        | 4 lbs  | 2 gp  |                |
 
 ## Weapons:
-| Name                               | Quantity | Weight | Value | Properties                |
-| :--------------------------------- | :------: | :----: | :---: | :------------------------ |
-| [Longsword](https://goo.gl/u7CuVC) | 1        | 3 lbs  | 15 gp | *Versatile*: 1d8/10 slash |
+| Name                               | Quantity | Weight | Value | Properties                             |
+| :--------------------------------- | :------: | :----: | :---: | :------------------------------------- |
+| Stone Glaive                       | 1        |        |       | *Reach*, hit:prof+cha, dmg:1d8(+cha) slash |
+| [Longsword](https://goo.gl/u7CuVC) | 1        | 3 lbs  | 15 gp | *Versatile*: 1d8/10 slash              |
 <br/>
 <br/>
 
