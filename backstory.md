@@ -4,6 +4,8 @@
     - [**Backstory**](#backstory)
         - [**Before the Hunt**](#before-the-hunt)
         - [**The Streets of Baldur's Gate**](#the-streets-of-baldurs-gate)
+        - [**Street Urchin**](#street-urchin)
+            - [**The Flaming Fist**](#the-flaming-fist)
         - [**Isolation**](#isolation)
     - [**Additional Info**](#additional-info)
         - [**Ander : Daemon's Father**](#ander---daemons-father)
@@ -12,6 +14,7 @@
         - [**Daemon's Surname**](#daemons-surname)
         - [**The Wild Hunt**](#the-wild-hunt)
             - [**Daemon's Platoon**](#daemons-platoon)
+            - [**Ekemon**](#ekemon)
     - [**Meta**](#meta)
         - [**The Name 'Daemon'**](#the-name-daemon)
         - [**Influence**](#influence)
@@ -48,9 +51,24 @@ No one was left alive. There was only ash, ruin, and bloodshed. Mearle had run o
 Daemon wandered through the [The Cloakwood](http://forgottenrealms.wikia.com/wiki/Cloak_Wood) for weeks that he couldn’t keep track of. He lived as an animal would, surviving on the barest of means. By luck, his path eventually intersected with a road (a tributary of [Coast Way](http://forgottenrealms.wikia.com/wiki/Coast_Way)) where he was picked up by a family traveling by horse and cart. The family was of meager standing, but kind. They fed and nursed Daemon as best they could on the road North and never asked questions he did not want to answer. However, the numbness in Daemon could not accommodate any developing feelings of fondness, and so when they camped on the Southern side of [Wyrm's Crossing](http://1.bp.blogspot.com/-xxM0-3W2VBE/UiJszlAg5SI/AAAAAAAAA5A/6hxXEptdUHw/s1600/Baldur's-Map-from-afar2.jpg), Daemon slipped away in the night.
 
 ### **The Streets of Baldur's Gate**
+### **Street Urchin**
+Daemon was approaching age seven when he arrived in the outer city of [Baldur's Gate](http://forgottenrealms.wikia.com/wiki/Baldur%27s_Gate). It was here that he would spend the most formative years of his life, first as an urchin and beggar, and later a pickpocket of the Guild. The numbness and anger he’d felt for so long slowly formed into motivation, a will to live, and a strong desire for retribution. 
 
-Daemon was approaching age seven when he arrived in the outer city of [Baldur's Gate](http://forgottenrealms.wikia.com/wiki/Baldur%27s_Gate). It was here that he would spend the most formative years of his life, first as an urchin, then a beggar, and finally a pickpocket of the Guild. The numbness and anger he’d felt for so long slowly formed into motivation, a will to live, and a strong desire for retribution. 
+Durring his boyhood on the streets Daemon had a young tiefling friend named Ekemon. They were about the same age, and for almost two years the two were constant companions, snatching bread and coin together and sleeping back to back at night. 
 
+Ekomon's tiefling blood made him the target of constant tormet among older street urchins. Insults were common place. But occasionally the attacks were more violent or cruel.
+
+One day, Ekemon's temper flared as three older boys threw rocks at Ekemon's back, jeerring at him to return to his father Bhaal. Ekemon turned back to them, his eyes transformed into two blue flames, the ground shook, and his voice resonated in a deep boom.
+
+"I AM THE SON OF BHALL, AS YOU SAY! LET ME CALL MY FATHER TO TAKE YOU!" 
+
+The three boys scattered.  
+
+"At least my blood is good for something..." Ekemon shrugged, returning to normal. "That should keep them away."
+
+Daemon, however, feared that the stunt had only put a larger target on Ekemon's back. And, sure enough, it wasn't long after the Ekemon disapeared without a trace...
+
+#### **The Flaming Fist**
 When Daemon was close to fifteen, [the Flaming Fist mercenary company](http://forgottenrealms.wikia.com/wiki/Flaming_Fist) started a clever campaign to recruit from the streets of the Outer City in a preemptive strike against crime. Daemon joined their ranks and began to fight the crime in which he once partook. Daemon's insight into the operations of the criminal Underground gave him a leg up in The Fist. However, it made him many enemies in the Underground.
 
 Daemon’s time in the streets proved valuable to the Flaming Fist. By the time he was 19 he had been raised to the rank of captain and had even been acknowledged as 'a promising young officer' by the Fist’s highest in command, the Grand Duke Ulder Ravengard. Daemon now commanded a small platoon of seven mercenaries, and for the first time in several years felt he had something akin to a family. 
@@ -112,6 +130,12 @@ Feared across the known world, The Wild Hunt are believed to be the souls of the
 *   Gregory
 *   Dominic
 *   Ryan
+
+#### **Ekemon**
+Ekemon's horns stood nearly straigh up, almost comically, as though he had perpetual bedhead. From Ekemon Daemon learned a small amount of Infernal. 
+
+Ekemon's story was a tragic one. He was born to a whore and cast out onto the street to fend for himself.  
+
 
 ## **Meta**
 
