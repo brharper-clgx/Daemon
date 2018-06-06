@@ -86,9 +86,13 @@ But eight mortal men --- even heavily armed and combat-readied --- are barely mo
 ### **Isolation**
 Daemon's forged documents were soon discovered by the Flaming Fist. Daemon had anticipated this, but expected to come back victorious, thereby justifying his deceit. However, Daemon learned from a friend in Triel that the Fist had stripped Daemon of his position and placed a bounty on his head. Having made enemies with both the law and underground of Baldur's gate, there was no going back. 
 
-Daemon wandered aimlessly for a time, reflecting on his situation. The aim of his entire adult life, the only thing he had lived for, now seemed unobtainable. An ordinary mortal could not take on the [Wild Hunt](#wild-hunt). For a time Daemon felt hollow, wandering from place to place like the walking dead. 
+Daemon wandered aimlessly for a time, reflecting on his situation. The men of his platoon, men he had considered brothers, now joined Daemon's family among those murered by the Hunt. And this time, Daemon shared the blame for their deaths. Daemon found himself torn... the Hunt was impossible to beat. But how could he live with himself as the Hunt continued to ravage the land while his friends and family died for nothing, unavenged...
 
-Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on his bedroll by a waning fire, with absolute clarity about what he needed to do. Daemon's father traded in rare and magical items. Daemon had read that many such items could their owner extraordinary abilities. No mortal could take the [Wild Hunt](#wild-hunt), true, but Daemon could become more than mortal....
+ The aim of his entire adult life, the only thing he had lived for, now seemed unobtainable. An ordinary mortal could not take on the [Wild Hunt](#wild-hunt). For a time Daemon felt hollow, wandering from place to place like the walking dead. 
+
+Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on his bedroll by a waning fire, with vague sense of what he needed to do. Daemon's father had traded in rare and magical items. Daemon had read that many such items could give their owner extraordinary abilities, powers that provided an edge against their enemies. No mortal could take the [Wild Hunt](#wild-hunt), true, but Daemon could become more than mortal....
+
+Daemon, now with nothing left, saw himself as only a vesel for carrying out this end: whatever it took, whatever sacrifices he had to make, he would find a way to vanquish the Wild Hunt.
 
 
 ## **Additional Info**
