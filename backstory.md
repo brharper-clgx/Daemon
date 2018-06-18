@@ -8,8 +8,8 @@
             - [**The Flaming Fist**](#the-flaming-fist)
         - [**Isolation**](#isolation)
     - [**Additional Info**](#additional-info)
-        - [**Ander : Daemon's Father**](#ander---daemons-father)
-        - [**Elaine : Daemon's Sister**](#elaine---daemons-sister)
+        - [**Ander : Daemon's Father**](#ander--daemons-father)
+        - [**Elaine : Daemon's Sister**](#elaine--daemons-sister)
         - [**Daemon's Mother**](#daemons-mother)
         - [**Daemon's Surname**](#daemons-surname)
         - [**The Wild Hunt**](#the-wild-hunt)
@@ -58,15 +58,15 @@ Durring his boyhood on the streets Daemon had a young tiefling friend named Ekem
 
 Ekomon's tiefling blood made him the target of constant tormet among older street urchins. Insults were common place. But occasionally the attacks were more violent or cruel.
 
-One day, Ekemon's temper flared as three older boys threw rocks at Ekemon's back, jeerring at him to return to his father Bhaal. Ekemon turned back to them, his eyes transformed into two blue flames, the ground shook, and his voice resonated in a deep boom.
+One day, Ekemon's temper flared as three older boys threw rocks at Ekemon's back, jeerring at him to return to his father "Bhaal". Ekemon turned back to them, his eyes transformed into two blue flames, the ground shook, and his voice resonated in a deep boom.
 
-"I AM THE SON OF BHALL, AS YOU SAY! LET ME CALL MY FATHER TO TAKE YOU!" 
+"I AM THE SON OF BHAAL, AS YOU SAY! LET ME CALL MY FATHER TO TAKE YOU!" 
 
 The three boys scattered.  
 
 "At least my blood is good for something..." Ekemon shrugged, returning to normal. "That should keep them away."
 
-Daemon, however, feared that the stunt had only put a larger target on Ekemon's back. And, sure enough, it wasn't long after the Ekemon disapeared without a trace...
+Daemon, however, feared that the stunt had only put a larger target on Ekemon's back. And, sure enough, it wasn't long after that Ekemon disapeared without a trace...
 
 #### **The Flaming Fist**
 When Daemon was close to fifteen, [the Flaming Fist mercenary company](http://forgottenrealms.wikia.com/wiki/Flaming_Fist) started a clever campaign to recruit from the streets of the Outer City in a preemptive strike against crime. Daemon joined their ranks and began to fight the crime in which he once partook. Daemon's insight into the operations of the criminal Underground gave him a leg up in The Fist. However, it made him many enemies in the Underground.
