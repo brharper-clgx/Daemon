@@ -13,8 +13,8 @@
         - [**Daemon's Mother**](#daemons-mother)
         - [**Daemon's Surname**](#daemons-surname)
         - [**The Wild Hunt**](#the-wild-hunt)
-            - [**Daemon's Platoon**](#daemons-platoon)
-            - [**Ekemon**](#ekemon)
+        - [**Daemon's Platoon**](#daemons-platoon)
+        - [**Ekemon**](#ekemon)
     - [**Meta**](#meta)
         - [**The Name 'Daemon'**](#the-name-daemon)
         - [**Influence**](#influence)
@@ -125,7 +125,7 @@ Nothing is known by Daemon of his mother. She was not around at any point in his
 
 Feared across the known world, The Wild Hunt are believed to be the souls of the dead, mystical hunters on horseback who shift through planes of existence hunting and causing chaos in their wake. Riding with bloodthirsty hounds above the clouds, they are a fearsome sight. Little is known of their motives or their background, because most who have seen them are dead or insane. ([For more detail.](https://imgur.com/QDPXrR9))
 
-#### **Daemon's Platoon**
+### **Daemon's Platoon**
 
 *   Jacob
 *   Robert
@@ -135,7 +135,7 @@ Feared across the known world, The Wild Hunt are believed to be the souls of the
 *   Dominic
 *   Ryan
 
-#### **Ekemon**
+### **Ekemon**
 Ekemon's horns stood nearly straigh up, almost comically, as though he had perpetual bedhead. From Ekemon Daemon learned a small amount of Infernal. 
 
 Ekemon's story was a tragic one. He was born to a whore and cast out onto the street to fend for himself.  
