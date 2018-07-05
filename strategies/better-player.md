@@ -1,0 +1,7 @@
+- Trust the DM.
+- Understand failure.
+- Listen.
+- Know the tone of the game.
+- Make a character you would want to be friends with.
+- Redirect the spotlight.
+- If you must argue/complain, *do it in character*.

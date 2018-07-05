@@ -1,0 +1,4 @@
+- Ask them their opinion about someone or something.
+- Ask them for advice about a dilemma you're facing.
+- Tell them about something interesting that happened to you.
+- Ask about their goals.
