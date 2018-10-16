@@ -40,7 +40,7 @@ For the next several years I lived as a Street Urchin. After some time as a begg
 
 I had one close friend during this period. The competition was fierce among the pickpockets, so few were friendly with one another. But Ekomon was different. He'd never hesitate to share a loaf of bread or give you some of his earnings so you could meet quota and avoid a lashing. Perhaps it was because he was the subject of constant torment himself that found empathy for others. His tiefling blood put a target on his back that he could not wash off. 
 
-Ekemon's horns sat on his head comically erect, nearly straight up, but twisted as though he had perpetual bedhead. From him I learned a pinch of Infernal, a language passed on to him from his late father. He was generally even-keeled, but I remember one day when he lost his temper as three boys threw rocks at him, jeering and shouting "go back to the Shadowfel to your father, Bhaal."  Ekemon turned back to them, his eyes transformed into two blue flames, the ground shook, and his voice resonated in a deep, thaumaturgical boom.
+Ekemon's horns sat on his head comically erect but twisted as though he had perpetual bedhead. From him I learned a pinch of Infernal, a language passed on to him from his late father. He was generally even-keeled, but I remember one day when he lost his temper as three boys threw rocks at him, jeering and shouting "go back to the Shadowfel to your father, Bhaal."  Ekemon turned back to them, his eyes transformed into two blue flames, the ground shook, and his voice resonated in a deep, thaumaturgical boom.
 
 "PERHAPS I AM THE SON OF BHAAL, AS YOU SAY! SHALL I CALL HIM TO MEET YOU?!"
 
