@@ -55,7 +55,7 @@ The Flaming Fist — the mercenary company that protects the lower city of Bauld
 
 By the time I was 19 I was First Lieutenant. By 22 I was made Captain and given charge of a small platoon of sixteen mercenaries. We were close. For the first time since I was a boy, I felt like I had something akin to a family.
 
-I don't remember when or why I started to visit the seer, Uhma... at first, it was just fleeting thought as I passed through an alley which happened to smell of the incense which often suffused her parlor. Then one day I noticed her sign. She had moved from the outer city into the lower. On a rainy afternoon one summer, I found myself opening her door, the soft jingle of bone chimes as I entered. I was wet... and nervous.
+I don't remember when or why I started to visit the seer, Uhma... at first, it was just fleeting thought as I passed through an alley which happened to smell of the incense that often suffused her parlor. Then one day I noticed her sign. She had moved from the outer city into the lower. On a rainy afternoon one summer, I found myself opening her door, the soft jingle of bone chimes as I entered. I was wet... and nervous.
 
 We would talk for hours. I don't even know what about. Uhma would ask me double-edged questions and make cryptic dictums. I would leave 5 silver on her mantle on the way out or bring a wheel of cheese and some tea. It was not that I particularly enjoyed her batty riddles or the cough-inducing smog of incense and perfume. I'm not entirely sure why I kept going back. I think it must have given me a sense of connection with my former life, with my father, and Elaine. Even Mearle.
 
