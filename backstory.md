@@ -88,7 +88,7 @@ I awoke to the crunch of snow. It was barely morning, still dark in the valley o
 No one but the dead. Bone art lay in a ring around me,  bodies bearing the insignia of the Flaming Fist
 
 ## **The Unraveling**
-Another aimless trek through the wilderness like an animal, this time with even less will to live. I often feel the gods let me live out of spite. I learned from a post in Triel that a bounty had been placed on my head. My deceit had been discovered, and I was to be brought to Baldur's Gate for trial. I had expected this but believed my men and I would return victorious, earning the possibility of amnesty. But now, even if a bounty hadn't on my head, shame would prevent me from returning. 
+Another aimless trek through the wilderness like an animal, this time with even less will to live. I often feel the gods let me live out of spite. I learned from a post in Triel that a bounty had been placed on my head. My deceit had been discovered, and I was to be brought to Baldur's Gate for trial. I had expected this but believed my men and I would return victorious, earning the possibility of amnesty. Even if a bounty hadn't been on my head, shame would prevent me from returning. 
 
 I took to drink. I slept in alleys. My clothes grew tattered and filthy. I became gaunt, skeletal. There were weeks when I uttered a word to no one. A back-alley dweller offered me Three-Eye for my boots. I'd never touched the pink liquid. It was deadly at certain doses. I unlaced my boots and wiggled the toes of hole-riddled socks in the air. I handed them over. With the small vial in hand, I sneaked into a barn to lay in a bed of hay. I took enough Three-Eye to kill me.
 
