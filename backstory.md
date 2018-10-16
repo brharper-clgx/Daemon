@@ -1,152 +1,97 @@
 # **Daemon Retch**
-
 - [**Daemon Retch**](#daemon-retch)
-    - [**Backstory**](#backstory)
-        - [**Before the Hunt**](#before-the-hunt)
-        - [**The Streets of Baldur's Gate**](#the-streets-of-baldurs-gate)
-        - [**Street Urchin**](#street-urchin)
-            - [**The Flaming Fist**](#the-flaming-fist)
-        - [**Isolation**](#isolation)
-    - [**Additional Info**](#additional-info)
-        - [**Ander : Daemon's Father**](#ander--daemons-father)
-        - [**Elaine : Daemon's Sister**](#elaine--daemons-sister)
-        - [**Daemon's Mother**](#daemons-mother)
-        - [**Daemon's Surname**](#daemons-surname)
-        - [**The Wild Hunt**](#the-wild-hunt)
-        - [**Daemon's Platoon**](#daemons-platoon)
-        - [**Ekemon**](#ekemon)
-    - [**Meta**](#meta)
-        - [**The Name 'Daemon'**](#the-name-daemon)
-        - [**Influence**](#influence)
-## **Backstory**
+    - [**Trader's Way**](#traders-way)
+    - [**Baldur's Gate**](#baldurs-gate)
+        - [**The Streets**](#the-streets)
+        - [**The Fist**](#the-fist)
+    - [**The Unraveling**](#the-unraveling)
 
-### **Before the Hunt**
+## **Trader's Way**
+I am the son of a traveling merchant. For the first six years of my life, we traveled the Sword Coast,  my father Ander, my younger sister Elaine, and our mule Mearle.  
 
-Daemon's father, [Ander](#ander), was a traveling merchant. His route brought him up and down the [Sword Coast](http://forgottenrealms.wikia.com/wiki/Sword_Coast) and occasionally through less traveled lands. Ander traveled with his son Daemon, daughter [Elaine](#elaine), and a vardo pulled by a mule named Mearl. The children were acclimated to life on the road and had seen more of the world before age six than most Faerûnians do their entire lives.
+My father specialized in the sale of exotic trinkets, some of a magical nature, others merely novel in their history. I imagine he could have found financial success peddling traditional wares, but his fascination for these unusual items all but sealed his fate as a traveling pauper. 
 
-Daemon's younger sister, Elaine, showed signs of being unusual at an early age. She rarely spoke, and yet seemed uncannily aware of the world around her. On one occasion in Kathatla, for example, as Daemon and Elaine were grooming Mearle as their father set up camp, Elaine gently glanced toward the woods and whispered, "Poor little rabbit". Daemon followed her gaze to see an Almiraj sitting at the edge of the wood and eating the low grass. A moment later a large bird of prey swept in an snatched the horned rabbit. Daemon watched as the winged predator flew away with its meal, his jaw agape. Elaine, however, went back to brushing Mearle as though nothing were out of the ordinary. 
+Ander was a gentle man. He was unusually tall yet thin, as though the gods had taken the time to stretch him over a torturer's rack before throwing him to the material plane. Generally, he was quiet, practically a mute, saying all with a shrug or smile,  the exception being conversations with Mearle as he drove our vardo down long-drawn stretches of road. Mearle for his part hawwed back in apparent comprehension, or perhaps to alleviate his own boredom. 
 
-"Did you know that was going to happen?", asked Daemon. 
+Elaine showed signs of being... unusual, at an early age. Like Ander, she rarely spoke, though her silence felt of a different kind entirely. While Ander was ever in the present, Elaine seemed to be floating through a waking dream. And yet my sister seemed to have an awareness of things that transcended what is normal. Take one occasion in Kathatla, as an example.
 
-"Poor thing", she replied.
+Elaine and I were brushing Mearle as father gathered wood for camp. Elaine paused and gently turned toward the forest beside us. I followed her gaze. There was an Almiraj grazing on the low grass a few dozen yards away. Elaine whispered, "poor little rabbit" then returned to brushing. This left me confused — the Almiraj seemed fine — but some minutes later the screech of a Blood Hawk foretold the last moments of the horned rabbit. 
 
-"How...?"
+"How did you know that was going to happen?", I asked. 
+My young sister shrugged absently and continued to brush.
 
-Elaine shrugged absently and continued to brush.
+This was one of many such peculiar incidents. According to Lady Uhma — a seer of Savras who father visited whenever we passed through the outer city of Baldur's gate — Elaine had an aptitude for the arcane. She urged my father to seek out a mentor who could foster Elaine's abilities and guide her away from dark magics. Ander took Uhma's advice seriously, though I suspect he feared that such an arrangement would require being separated from Elaine, something he could not bear considering.
 
-According to Lady Ohgmoth, a seer of Mystra who Ander frequented for counsel, Elaine had an aptitude for the arcane. The seer urged Ander to seek out a mentor who could foster Elaine's abilities and guide her away from dark magics. Ander took the Ohgmoth's calls seriously. However, he was also  reluctant to follow through, fearing that such a mentorship would require being separated from his young daughter.
+In my sixth year, my father brought us deep into the cloak wood to meet with a troupe of tradesmen from a distant land in the South West. The camp was almost like a small, traveling village. The people were dark in complexion and wore jewels in their ears and on their noses. They spoke in a strange tongue, with occasional clicks of varied timbre. I didn't understand it, and I must admit I felt uneasy around the foreigners. But Ander and Elaine, true to form, were quickly at ease with the strangers — Elaine delighted in the jewels adorning the troupe matrons while Ander became deeply immersed in a conversation over an oil lamp. I sat quietly by the campfire, taking it all in with wide eyes as the light waned and the sun eased into its horizon bed.
 
-When Daemon was six, [Ander's](#ander) work brought he and his family to the [The Cloakwood](http://forgottenrealms.wikia.com/wiki/Cloak_Wood). [Ander](#ander) was notably quiet on the journey there and grew tenser on each day of their approach. Deep in the [The Cloakwood](http://forgottenrealms.wikia.com/wiki/Cloak_Wood), their destination was a medium sized camp occupied by an exotic group of travelers of an ethnicity, fashion, and tongue Daemon and Elaine had never met prior. Daemon felt uneasy around the bejeweled foreigners. Elaine, however, seemed more at ease with these strangers than their normal Faerûnian patronage. 
+They came in the night. I felt a cold pit in my stomach — a primal sense of dread — even before I understood what was happening. There was the deep bellowing of an unearthly horn. Horses whinnied followed by the calls of men. I rushed to wake Elaine, but her bunk was empty. I practically fell out of the vardo, scrambling in panic. I'll spare you the details of the scene that unfolded, but suffice it to say, human cruelty knows no bounds. A battalion of bandits had come to steal our wares, our innocence, and our lives. I remember one dark figure in particular. He stood out from the rest, armored in black, his face masked, sitting atop a fearsome dark horse and overlooking the scene dispassionately. This figure would haunt my dreams for years to come, growing into a monster in my mind... and as it would turn out, that's just what he was.
 
-As the evening drew in they shared food, drink, and stories. [Ander](#ander) talked solemnly with with a scarred and weathered man, about business Daemon assumed. [Elaine](#elaine) delighted in the trinkets and jewels adorning the matrons of the encampment. Daemon sat quietly by the fire, taking it all in with wide eyes. 
+Blunt trauma to the head and I went out like a candle in the wind. The bandits must have believed me dead, as they seem to have left me untouched after that. My head spun, and my body ached as the sun slipped through the crescent opening of my eyelids. I waited for nausea to subside, then, stiffly, pulled myself up. Only ash and ruin lay before me. Well, ash, ruin... and blood. My father lay among countless others, faces contorted in final anguish, or burnt black. Our vardo was gone, with no sign of Mearle or Elaine. A part of me didn't want to look.
 
-In the middle of the night , Daemon awoke, stirred by a primal sense of dread. Outside the vardo he heard the deep bellowing of an unearthly horn. Soon after were the cries of men and whining of horses. He rushed to wake Elaine, but her bunk was empty. Daemon emerged from the wagon to smoke and fire. His father was suddenly beside him, pulling him away with urgency.
+After wandering the camp, looking for something, anything that could salvage the night's horrors in even the smallest way, I collapsed, defeated. A surge of emotion washed through me; loss, fear, fury... and then I was numb. For countless days, perhaps weeks, I wandered through the Cloakwood. I lived as an animal would, surviving on the barest of means. 
 
-When rounding the backside of the vardo they were cut off by a terrifying figure who seemed to be part man, part specter, and part beast, adorned in black armor and riding a fearsome dark horse. “RUN!” Ander yelled to his son, pushing him away toward the darkened woods. Daemon heeded his father's cries, stopping only at the edge of the woods to glance back. He watched as the dark rider bashed in his father’s skull and then turned toward Daemon, kicking his horse to a gallop. Daemon ran, fueled by adrenaline and instinct. He didn’t see the low branch that knocked him out cold. 
+By dumb luck, my path eventually intersected with a road where I was picked up by a small family traveling by horse and cart. Two children, their mother and father, all redheads. One of the children was a girl about half my age. The other was a swaddled baby. Jon, I think they named him. 
 
-He awoke to an eerie silence, the sun on his face through the trees. When he sat up, he was overcome with nausea. His head spun and ached. He waited for the sickness to subside, then, slowly, he pulled himself up. Somehow the foul rider had not taken Daemon's life. Confused, Daemon made his way toward their camp. 
+The family was of little means, but kind. They fed and nursed me as best they could as we traveled the road North toward Baldur's Gate. They never pushed questions I did not wish to answer. I spoke little. The numbness in me could not accommodate any fondness for these kind strangers. And when we camped on the Southern side of Wyrm's Crossing, I slipped away in the night to make my way across the bridge alone into the outer city of Baldur's Gate.
 
-No one was left alive. There was only ash, ruin, and bloodshed. Mearle had run off, been taken or killed. Ander's body still lay where Daemon had last seen him. Daemon couldn't muster the strength to approach his slain father. After wandering the camp, looking for something, *anything* that could salvage the nights horrors in even the smallest way, Daemon collapsed defeated. A surge of emotion washed through him; loss, fear, fury, then numbness. 
+## **Baldur's Gate**
+### **The Streets**
+For the next several years I lived as a Street Urchin. After some time as a beggar, I improved my situation slightly by becoming pickpocket of the Guild. Our overseers were volatile and sometimes violent, but the food and shelter were reliable, and that was enough to keep several dozen children and me sticky-fingered.
 
-Daemon wandered through the [The Cloakwood](http://forgottenrealms.wikia.com/wiki/Cloak_Wood) for weeks that he couldn’t keep track of. He lived as an animal would, surviving on the barest of means. By luck, his path eventually intersected with a road (a tributary of [Coast Way](http://forgottenrealms.wikia.com/wiki/Coast_Way)) where he was picked up by a family traveling by horse and cart. The family was of meager standing, but kind. They fed and nursed Daemon as best they could on the road North and never asked questions he did not want to answer. However, the numbness in Daemon could not accommodate any developing feelings of fondness, and so when they camped on the Southern side of [Wyrm's Crossing](http://1.bp.blogspot.com/-xxM0-3W2VBE/UiJszlAg5SI/AAAAAAAAA5A/6hxXEptdUHw/s1600/Baldur's-Map-from-afar2.jpg), Daemon slipped away in the night.
+I had one close friend during this period. The competition was fierce among the pickpockets, so few were friendly with one another. But Ekomon was different. He'd never hesitate to share a loaf of bread or give you some of his earning so you could meet quota and avoid a lashing. Perhaps it was because he was the subject of constant torment himself that found empathy for others. His tiefling blood put a target on his back that he could not wash off. 
 
-### **The Streets of Baldur's Gate**
-### **Street Urchin**
-Daemon was approaching age seven when he arrived in the outer city of [Baldur's Gate](http://forgottenrealms.wikia.com/wiki/Baldur%27s_Gate). It was here that he would spend the most formative years of his life, first as an urchin and beggar, and later a pickpocket of the Guild. The numbness and anger he’d felt for so long slowly formed into motivation, a will to live, and a strong desire for retribution. 
+Ekemon's horns sat on his head comically erect, nearly straight up, but twisted as though he had perpetual bedhead. From him I learned a pinch of Infernal, a language passed on to him from his late father. He was generally even-keeled, but I remember one day when he lost his temper as three boys threw rocks at him, jeering and shouting "go back to the Shadowfel to your father, Bhaal."  Ekemon turned back to them, his eyes transformed into two blue flames, the ground shook, and his voice resonated in a deep, thaumaturgical boom.
 
-Durring his boyhood on the streets Daemon had a young tiefling friend named Ekemon. They were about the same age, and for almost two years the two were constant companions, snatching bread and coin together and sleeping back to back at night. 
+"PERHAPS I AM THE SON OF BHAAL, AS YOU SAY! SHALL I CALL HIM TO MEET YOU?!"
 
-Ekomon's tiefling blood made him the target of constant tormet among older street urchins. Insults were common place. But occasionally the attacks were more violent or cruel.
+The three boys scattered.
 
-One day, Ekemon's temper flared as three older boys threw rocks at Ekemon's back, jeerring at him to return to his father "Bhaal". Ekemon turned back to them, his eyes transformed into two blue flames, the ground shook, and his voice resonated in a deep boom.
+Ekemon laughed afterward. "That ought to keep off me for a while." That was the last day I spent with Ekemon. I fear the incident may have only put a larger target on his back, as only a few days later he disappeared without a trace. His fate remains a mystery to me. Although with the ruthless nature of Baldur's Gate's streets, perhaps it is no mystery at all.
 
-"I AM THE SON OF BHAAL, AS YOU SAY! LET ME CALL MY FATHER TO TAKE YOU!" 
+### **The Fist**
+The Flaming Fist — the mercenary company that protects the lower city of Baulder's Gate — created a clever campaign which recruited from the streets of the outer city as a preemptive strike against crime. I was fifteen when they recruited me. As with the Guild before, the promise of warm sheets and a steady supply of coin was enough to win my loyalty. Call it an upgrade.
 
-The three boys scattered.  
+ My time in the streets proved valuable to the Fist. I knew, more or less, the inner workings of the underground — where to go for information, which factions had rivalries, and who not fuck with unless you wanted to make enemies with criminal families as powerful as the Council Four. My knack for locking up thieves and smugglers made me a rising star in the Fist. It also made me many enemies in the underground.
 
-"At least my blood is good for something..." Ekemon shrugged, returning to normal. "That should keep them away."
+By the time I was 19 I was First Lieutenant. By 22 I was made Captain and given charge of a small platoon of sixteen mercenaries. We were close. For the first time since I was a boy, I felt like I had something akin to a family.
 
-Daemon, however, feared that the stunt had only put a larger target on Ekemon's back. And, sure enough, it wasn't long after that Ekemon disapeared without a trace...
+I don't remember when or why I started to visit the seer, Uhma... at first, it was just fleeting thought as I passed through an alley which happened to smell of the incense which often suffused her parlor. Then one day I noticed her sign. She had moved from the outer city into the lower. On a rainy afternoon one summer, I found myself opening her door, the soft jingle of bone chimes as I entered. I was wet... and nervous.
 
-#### **The Flaming Fist**
-When Daemon was close to fifteen, [the Flaming Fist mercenary company](http://forgottenrealms.wikia.com/wiki/Flaming_Fist) started a clever campaign to recruit from the streets of the Outer City in a preemptive strike against crime. Daemon joined their ranks and began to fight the crime in which he once partook. Daemon's insight into the operations of the criminal Underground gave him a leg up in The Fist. However, it made him many enemies in the Underground.
+We would talk for hours. I don't even know what about. Uhma would ask me double-edged questions and make cryptic dictums. I would leave 5 silver on her mantle on the way out or bring a wheel of cheese and some tea. It was not that I particularly enjoyed her batty riddles or the cough-inducing smog of incense and perfume. I'm not entirely sure why I kept going back. I think it must have given me a sense of connection with my former life, with my father, and Elaine. Even Mearle.
 
-Daemon’s time in the streets proved valuable to the Flaming Fist. By the time he was 19 he had been raised to the rank of captain and had even been acknowledged as 'a promising young officer' by the Fist’s highest in command, the Grand Duke Ulder Ravengard. Daemon now commanded a small platoon of seven mercenaries, and for the first time in several years felt he had something akin to a family. 
+ Neither of us ever spoke of my family. In fact, I had always assumed she didn't recognize me. It had been over a decade since I had last visited her as a boy. And I think I preferred it that way. It was safe. I didn't have to think about what was lost. But, out of the blue one day,  Uhma rounded on me as we made tea, poking her crooked finger into my chest "...and are zyou ready to finally take your venschence, boy?! Are zyou going eradicate zhe scourge whisch took zyour fazjer?" 
 
-During this time, Daemon took it upon himself to garner a basic education. In the beginning, he simply sought to learn the basics of history, geography, and commerce, but something always tugged at the back of his mind. *The dark riders that had changed the course of his life... were they an anomaly? Agents of an enemy empire? A force of evil?* These questions burned at him, and so his studies inevitable steered in their direction.
+"What do you mean?"
 
- Many late nights in the stacks and talkative scholars from [Candle Keep](http://forgottenrealms.wikia.com/wiki/Candlekeep) led Daemon to a group called [The Wild Hunt](#wild-hunt). Stories of the Hunt were inconsistent and bordering on fantastical; they were meant to be terrible winged creatures who preyed on weak travelers; no, they were snakes with the faces of men; or they were men themselves, turned rotten from the inside out by the neglect of the world. Daemon dismissed much of it as the jabbering of frightened spinsters. Even his own memories he didn't trust --- he had been, after all, just a frightened boy. The Hunt, Daemon began to suspect, were merely a particularly barbaric band of bandits. 
+A pitying scoff, "Phegh.... don't visit me till zyou can see zyour feets on zhe ground!" With a humph she picked up her tea mug and exited the parlor through a beaded doorway; my cue to leave. 
 
-A few years after Daemon learned the name of the Wild Hunt, he heard rumors of a band of dark horsemen menacing the inhabitants of The Storm Horns. The influence of the Flaming Fist did not reach as far as the Storm Horns, so, single-minded in his aim, Daemon forged the papers, purportedly from Ulder Ravengard, that granted Daemon's platoon permission to travel outside their legal territory. 
+The exchange awoke something inside me. Feelings long tucked away, festering in dark nooks reared their foul heads. At night my thoughts reeled. Anger, obsession, and shame consumed me. Who were the bastards who had raided the camp that night? Why hadn't I done anything about this before? As a child, they had felt like indomitable monstrosities, sure, but now that I was a member of the Fist, I knew better. Likely they were nothing more than the scum I locked away routinely. And they had raped and pillaged and taken everything from me. Probably they were still at it, laughing, happy, while I grow fat in coin and comfort a hundred miles away. 
 
-For months they tracked what his men believed was a group of ordinary bandits. The going was rough; resources were scarce and the mountains were perilous and bitterly cold. But Daemon’s leadership kept his men from losing heart. Eventually, they sensed that they were closing in on their target. 
+I began keeping my ear to the ground. I would interrogate the captains of platoons returning from missions abroad. I'd exchange letters with clerks at remote outposts. For a time, nothing. But then gradually, a picture took shape. There was one band of marauders who stood out from the rest. And the descriptions of its leader, a dark splinter in the world, convinced me this was the group I sought. Only the stories of this group were hard to believe...
 
-But eight mortal men --- even heavily armed and combat-readied --- are barely more than an inconvenience to the dark powers of the [Wild Hunt](#wild-hunt). Perceiving that they were being followed, the [Wild Hunt](#wild-hunt) paused to let their pursuers catch them. And like a cat toying with a mouse, the Hunt killed each of Daemon's men. Yet they left Daemon himself only a breath away from death. Inexplicably, the Hunt had now spared Daemon from death twice.
+They were called by many different names, but the most widely used was The Red Veil. Stories of the Veil were inconsistent, bordering on fantastical; they were meant to be terrible winged creatures who preyed on weak travelers; no, they were snakes with the faces of men; or they were men themselves, turned rotten from the inside out by the neglect of the world. But a few details were consistent. They were led by an imposing figure in dark armor. They never left any survivors. They would appear out of nowhere and disappear to nowhere again. 
 
-### **Isolation**
-Daemon's forged documents were soon discovered by the Flaming Fist. Daemon had anticipated this, but expected to come back victorious, thereby justifying his deceit. However, Daemon learned from a friend in Triel that the Fist had stripped Daemon of his position and placed a bounty on his head. Having made enemies with both the law and underground of Baldur's gate, there was no going back. 
+I dismissed much of the stories as the jabbering of cowed spinsters. Even my own memories carried little stock. After all, I had been just a frightened little boy. 
 
-Daemon wandered aimlessly for a time, reflecting on his situation. The men of his platoon, men he had considered brothers, now joined Daemon's family among those murered by the Hunt. And this time, Daemon shared the blame for their deaths. Daemon found himself torn... the Hunt was impossible to beat. But how could he live with himself as the Hunt continued to ravage the land while his friends and family died for nothing, unavenged...
+I went to see Uhma again. The old seer could not be hurried. After much evasive sophistry, finally "I know vhy zyou have come. But heed my warning, boy!! Zyou cannot do zhis vith zyour power alone!" We sat in silence for a time. "Well, go now! I can do noshing for zyou. Zyou! Zyou must go do zhis! Now, go." I left with her boots kicking at my ankles.
 
- The aim of his entire adult life, the only thing he had lived for, now seemed unobtainable. An ordinary mortal could not take on the [Wild Hunt](#wild-hunt). For a time Daemon felt hollow, wandering from place to place like the walking dead. 
+A missive came from the Storm Horns, one of the outposted clerks I'd been in correspondence with. He had reports from numerous sources of activity matching the Veil's description in the area. I didn't hesitate. I made plans and executed.
 
-Somewhere in the High Moor, in the dead of night, Daemon awoke, sitting up on his bedroll by a waning fire, with vague sense of what he needed to do. Daemon's father had traded in rare and magical items. Daemon had read that many such items could give their owner extraordinary abilities, powers that provided an edge against their enemies. No mortal could take the [Wild Hunt](#wild-hunt), true, but Daemon could become more than mortal....
+ It was not within my authority to mobilize an expedition. I was a rank shy of that. And there was little hope that I could convince a Marshal or General to create one; there was little to gain by going after a remote assemblage of bandits. And I feared the commanders wouldn't believe in the admittedly far-fetched tales of the Red Veil besides. So I forged the papers... the Grand Duke Ulder Ravengard himself had asked us on a secret mission. I lied to my men. I lied to the armory clerk and stablemaster. I lied to myself — this was all for the greater good. But I could not do this on my own, Uhma had said. So I assembled my men. Nearly twenty in all. We collected supplies, loaded our mounts, and traveled East.
 
-Daemon, now with nothing left, saw himself as only a vesel for carrying out this end: whatever it took, whatever sacrifices he had to make, he would find a way to vanquish the Wild Hunt.
+The territory around the Storm Horns is mostly unpopulated. There are a few small settlements, occupied mainly by fur traders passing through. It is the domain of nature, unconquered by people. The land is cold and barren, the elements unforgiving. We rode from lush river basin around the Chionthar, through arid grasslands, and finally to the snowy wasteland of the Storm Horns, with scant to offer in the way of food or shelter. The hills became mountains. The days grew colder. We had to abandon our horses when the terrain became too steep.  The first casualties — Treven, Dominic, and Sam — were the product of hunger and bitter cold, not the Veil. But fear not, there would be plenty of blood yet for the Veil to spill.
 
+Signs of the Veil were scarce, at first. Mostly second-hand rumors from folk on the road. The unyielding snowfall made tracking near impossible. But the evidence did grow thicker. Burned settlements. Bodies strewn from trees, or placed in odd geometric patterns on the ground, resembling the runes of a shaman. 'Bone art' the men had begun to call it, though 'flesh art' would have been more apt — the corpses were always fresh, preserved in the frost. Always, the faces were contorted in agony or burnt black as though pressed to the coals of a fire. I must admit that I grew more fearful each day. But I showed no sign of it to my men and pressed on.
 
-## **Additional Info**
-### **Ander : Daemon's Father**
-Ander was a wandering merchant who specialized in rare and magical items. He would bring his family up and down [Trader's Way](http://forgottenrealms.wikia.com/wiki/Trader%27s_Way) exchanging goods and news with towns and cities along the road. 
+I awoke to the crunch of snow. It was barely morning, still dark in the valley of our camp. A dark figure stood over me. The dark figure. Fear paralyzed me. I could hear my heart pounding like a war drum. Everything else was silent. We stared at one another for what seemed like an eternity. He cocked his head. Then, slowly, lifted his metal boot and pressed down on my ankle. There was the crunch of my bones and pain spread through me like wildfire. My eyes clenched shut, fists balled. I awaited the next assault. But none came. I took a glimpse. Nothing. I whirled about, searching for my foe. No one. 
 
-Daemon remembers his father as kind, gentle, reflective, and burdened with a deep sadness of an origin Daemon never knew.
+No one but the dead. Bone art lay in a ring around me,  bodies bearing the insignia of the Flaming Fist
 
-**Appearance:** Ander was slender, as though he were frequently underfed, though he was not frail. His clothes were shabby. His hair was a messy brown that had begun to grey around the edges. His eyes were a pale blue.
+## **The Unraveling**
+Another aimless trek through the wilderness like an animal, this time with even less will to live. I often feel the gods let me live out of spite. I learned from a post in Triel that a bounty had been placed on my head. My deceit had been discovered, and I was to be brought to Baldur's Gate for trial. I had expected this but believed my men and I would return victorious, earning the possibility of amnesty. But now, even if a bounty hadn't on my head, shame would prevent me from returning. 
 
-### **Elaine : Daemon's Sister**
+I took to drink. I slept in alleys. My clothes grew tattered and filthy. I became gaunt, skeletal. There were weeks when I uttered a word to no one. A back-alley dweller offered me Three-Eye for my boots. I'd never touched the pink liquid. It was deadly at certain doses. I unlaced my boots and wiggled the toes of hole-riddled socks in the air. I handed them over. With the small vial in hand, I sneaked into a barn to lay in a bed of hay. I took enough Three-Eye to kill me.
 
-Daemon's younger sister Elaine was two years younger than Daemon and was four when the [Wild Hunt](#wild-hunt) came. She showed a natural affinity for magic and Ander was seeking a mentor for her to train under. Daemon has always presumed that Elaine died along with their father at the hands of the [Wild Hunt](#wild-hunt). However, unlike [Ander](#ander), Daemon did not witness Elaine's death. 
+Euphoria, then mania, then... a voice.
 
-Daemon remembers Elaine as strong willed, independent, and capable beyond her years. 
-
-**Appearance:** Elaine had jet black hair and porcelain skin. She had large green eyes that felt as though they could pierce through any pretension or deception.
-
-### **Daemon's Mother**
-
-Nothing is known by Daemon of his mother. She was not around at any point in his memory. [Ander](#ander) was known to grow quiet and wander off at any mention of her.
-
-### **Daemon's Surname**
-
-"Retch" is not Daemon's actual surname. In the years after the [Wild Hunt](#wild-hunt) killed Daemon's family, Daemon forgot many details about his past, including his surname, which he rarely had use for as a child. The name "Retch" was an insult coined by older street urchins (possibly they meant Wretch) during Daemon's time in the streets Baldur's Gate. When he grew older, Daemon decided to embrace the name as an act of defiance.
-
-### **The Wild Hunt**
-
-> "The Wild hunt is a horde of spectral riders that roam the sky like a thunderous storm and is an omen of disaster. Those who witness The Riders scarcely live to tell the tale, as their souls are dragged to the land of the dead"
-
-Feared across the known world, The Wild Hunt are believed to be the souls of the dead, mystical hunters on horseback who shift through planes of existence hunting and causing chaos in their wake. Riding with bloodthirsty hounds above the clouds, they are a fearsome sight. Little is known of their motives or their background, because most who have seen them are dead or insane. ([For more detail.](https://imgur.com/QDPXrR9))
-
-### **Daemon's Platoon**
-
-*   Jacob
-*   Robert
-*   Trevan
-*   Dylan
-*   Gregory
-*   Dominic
-*   Ryan
-
-### **Ekemon**
-Ekemon's horns stood nearly straigh up, almost comically, as though he had perpetual bedhead. From Ekemon Daemon learned a small amount of Infernal. 
-
-Ekemon's story was a tragic one. He was born to a whore and cast out onto the street to fend for himself.  
-
-
-## **Meta**
-
-### **The Name 'Daemon'**
-
-The character is named after the computing term, 'daemon', which refers to a type of background process. The term originates from the thought experiment; [_Maxwell's demon_](https://en.wikipedia.org/wiki/Maxwell%27s_demon).
-
-### **Influence**
-
-Daemon's backstory was conceived as a slightly darker version of the upbringing of Kvothe from [The King Killer Chronicle](https://en.wikipedia.org/wiki/The_Kingkiller_Chronicle). The Wild Hunt is ripped straight out of the game [The Witcher](http://thewitcher.com/en/witcher3).
+"Stupid, stupid boy! Foolish boy. Zyou have no wisdom. Zyour sister zyou are not! I said zyou do not have zhe power alone. I said noshing of strength! Zhe strength of a hundred men is not zhe power of one! ...go North. I sense something zhere... a growing power... maybe you can find what you seek..."
