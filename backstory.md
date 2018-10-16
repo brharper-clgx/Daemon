@@ -94,4 +94,4 @@ I took to drink. I slept in alleys. My clothes grew tattered and filthy. I becam
 
 Euphoria, then mania, then... a voice.
 
-"Stupid, stupid boy! Foolish boy. Zyou have no wisdom. Zyour sister zyou are not! I said zyou do not have zhe power alone. I said noshing of strength! Zhe strength of a hundred men is not zhe power of one! ...go North. I sense something zhere... a growing power... maybe you can find what you seek..."
+"Stupid, stupid boy! Foolish boy. Zyou have no wisdom. Zyour sister zyou are not! I said zyou do not have zhe _power_ alone. I said noshing of _strength_! Zhe strength of a hundred men is not zhe power of one! ...go North. I sense something zhere... a growing power... maybe you can find what you seek..."
