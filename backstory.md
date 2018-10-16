@@ -36,7 +36,7 @@ The family was of little means, but kind. They fed and nursed me as best they co
 
 ## **Baldur's Gate**
 ### **The Streets**
-For the next several years I lived as a Street Urchin. After some time as a beggar, I improved my situation slightly by becoming pickpocket of the Guild. Our overseers were volatile and sometimes violent, but the food and shelter were reliable, and that was enough to keep several dozen children and me sticky-fingered.
+For the next several years I lived as a Street Urchin. After some time as a beggar, I improved my situation slightly by becoming pickpocket of the Guild. Our overseers were volatile, often violent, but the food and shelter were reliable, and that was enough to keep several dozen children and me sticky-fingered.
 
 I had one close friend during this period. The competition was fierce among the pickpockets, so few were friendly with one another. But Ekomon was different. He'd never hesitate to share a loaf of bread or give you some of his earning so you could meet quota and avoid a lashing. Perhaps it was because he was the subject of constant torment himself that found empathy for others. His tiefling blood put a target on his back that he could not wash off. 
 
